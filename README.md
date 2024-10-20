@@ -106,10 +106,12 @@ return 0;
 
 ## OUTPUT
 $ ./sem.o 
+![image](https://github.com/user-attachments/assets/1491e9ae-9d78-4fb2-9a39-ddce850990f6)
 
 
 $ ipcs
 
+![image](https://github.com/user-attachments/assets/7e8e924b-5e27-43cb-a20c-41e33d47b395)
 
 
 
