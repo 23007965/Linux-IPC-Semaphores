@@ -106,6 +106,7 @@ return 0;
 
 ## OUTPUT
 $ ./sem.o 
+
 ![image](https://github.com/user-attachments/assets/1491e9ae-9d78-4fb2-9a39-ddce850990f6)
 
 
